@@ -11,7 +11,7 @@
   <a href="https://instagram.com/the_real_d4buh?igshid=enIyeWlndjBvcTlp">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
-  https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+  
   </a>
 <br> 
 
